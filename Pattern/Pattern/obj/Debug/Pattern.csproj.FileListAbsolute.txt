@@ -1,0 +1,6 @@
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Pattern.csprojResolveAssemblyReference.cache
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Pattern.pdb

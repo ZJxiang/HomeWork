@@ -1,0 +1,12 @@
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Work\Pattern\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\Work\Pattern\Pattern\Pattern\obj\Debug\Pattern.pdb
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\obj\Debug\Pattern.pdb
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Code\New\SortAndPattern\Pattern\Pattern\Pattern\obj\Debug\Observer.csprojResolveAssemblyReference.cache

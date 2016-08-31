@@ -1,0 +1,6 @@
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\zhongjianxiang\Desktop\Sort\Sort\Sort\obj\Debug\Sort.pdb
